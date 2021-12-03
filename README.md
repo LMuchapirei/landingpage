@@ -7,6 +7,10 @@ Here is the design
 
 <img src="https://cdn.dribbble.com/users/1592944/screenshots/14293996/media/6caf1b42f5e5a9aa31d9271318c3f5ee.png">
 
+Where l am now
+
+<img src="./progress.png">
+
 
 
 to run project clone this repo

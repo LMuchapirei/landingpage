@@ -82,48 +82,82 @@ class _MyHomePageState extends State<MyHomePage> {
                                     height: 50,
                                     width: 50,
                                     decoration: BoxDecoration(
-                                        color: Color(0xFFFFE6D3),
+                                        color: Color(0xFFFFF5D7),
                                         shape: BoxShape.circle),
                                     child: Center(
-                                      child: FaIcon(FontAwesomeIcons.cartPlus,
+                                      child: FaIcon(FontAwesomeIcons.dice,
                                           color: Colors.black),
                                     )),
                                 SizedBox(
                                   width: 10,
                                 ),
-                                Text('shophub'),
+                                Text(
+                                  'shophub',
+                                  style: TextStyle(
+                                      fontSize: 22,
+                                      fontWeight: FontWeight.w900,
+                                      color: Colors.black),
+                                )
                               ],
                             ),
                             Row(
                               children: [
-                                Text('Home'),
+                                Text(
+                                  'Home',
+                                  style: TextStyle(
+                                      fontSize: 16,
+                                      fontWeight: FontWeight.w900,
+                                      color: Colors.black),
+                                ),
                                 SizedBox(
                                   width: 20,
                                 ),
                                 Text(
                                   'Shop',
+                                  style: TextStyle(
+                                      fontSize: 16,
+                                      fontWeight: FontWeight.w900,
+                                      color: Color(0xFFFF7F20)),
                                 ),
                                 SizedBox(
                                   width: 20,
                                 ),
-                                Text('Blog'),
+                                Text(
+                                  'Blog',
+                                  style: TextStyle(
+                                      fontSize: 16,
+                                      fontWeight: FontWeight.w900,
+                                      color: Colors.black),
+                                ),
                                 SizedBox(
                                   width: 20,
                                 ),
-                                Text('Contact')
+                                Text(
+                                  'Contact',
+                                  style: TextStyle(
+                                      fontSize: 16,
+                                      fontWeight: FontWeight.w900,
+                                      color: Colors.black),
+                                )
                               ],
                             ),
                             Row(
                               children: [
-                                Text('\$239'),
+                                Text(
+                                  '\$239',
+                                  style: TextStyle(
+                                      fontSize: 16,
+                                      fontWeight: FontWeight.w900,
+                                      color: Colors.black),
+                                ),
                                 SizedBox(
                                   width: 10,
                                 ),
                                 Container(
-                                  width: 20,
-                                  height: 20,
+                                  width: 50,
+                                  height: 50,
                                   decoration: BoxDecoration(
-                                    color: Colors.white,
+                                    color: Color(0xFFFFF5D7),
                                     shape: BoxShape.circle,
                                   ),
                                   child: Icon(
