@@ -1,16 +1,14 @@
 # landingpage
 
-A new Flutter project.
+A new Flutter project for the web in which l try to build a design for E-commerce Shop page by Shah Alam.
 
-## Getting Started
+Not yet picture perfect but getting there
+Here is the design
+https://cdn.dribbble.com/users/1592944/screenshots/14293996/media/6caf1b42f5e5a9aa31d9271318c3f5ee.png
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+to run project clone this repo
+go into the root folder
+run flutter run
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
